@@ -15,6 +15,16 @@ Este repositório trata-se do trabalho final da disciplina POO - Programação O
 
 5 - ```docker run --name teste-pgadmin --network=postgres-network -p 15432:80 -e "PGADMIN_DEFAULT_EMAIL=email@email.com" -e "PGADMIN_DEFAULT_PASSWORD=senha123" -d dpage/pgadmin4```
 
+### Acessando o PGAdmin
+
+(Observação: ao iniciar o container, espere alguns minutos para acessar o PGAdmin, pois a instância não fica disponivel de imediato)
+
+http://localhost:5432
+
+email: email@email.com
+
+senha: senha123
+
 ## Como executar
 
 👉 Primeiramente, faça um clone do repositório:
