@@ -1,4 +1,5 @@
 # Trabalho Final POO
+
 Este repositório trata-se do trabalho final da disciplina POO - Programação Orientada a Objetos.
 
 ## Configurando o Postgres no Docker:
@@ -42,3 +43,22 @@ senha: senha123
 👉 Execute o programa:
 
 ![Extensões](./img/run.png)
+
+## Testando a API via Postman
+
+- Método Get:
+
+![GET](./img/get.png)
+
+- Método Post:
+
+![POST](./img/post.png)
+
+- Método Delete:
+
+![DELETE](./img/delete.png)
+
+- Método Update:
+
+![UPDATE](./img/update.png)
+
