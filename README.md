@@ -60,5 +60,5 @@ senha: senha123
 
 - Método Update:
 
-![UPDATE](./img/update.png)
+![UPDATE](https://raw.githubusercontent.com/mfelipesoares/Trabalho_Final_POO/refs/heads/main/img/update.png)
 
