@@ -13,3 +13,6 @@ Este repositório trata-se do trabalho final da disciplina POO - Programação O
 👉 Instale as seguintes extensões:
 
 ![Extensões](./img/spring.png)
+
+👉 Execute o programa:
+![Extensões](./img/run.png)
