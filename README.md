@@ -20,7 +20,7 @@ Este repositório trata-se do trabalho final da disciplina POO - Programação O
 
 (Observação: ao iniciar o container, espere alguns minutos para acessar o PGAdmin, pois a instância não fica disponivel de imediato)
 
-http://localhost:5432
+http://localhost:15432
 
 email: email@email.com
 
