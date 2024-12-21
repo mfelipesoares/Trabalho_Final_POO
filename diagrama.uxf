@@ -1,0 +1,33 @@
+<diagram program="umletino" version="15.1"><zoom_level>10</zoom_level><element><id>UMLClass</id><coordinates><x>140</x><y>400</y><w>210</w><h>190</h></coordinates><panel_attributes>QuadrinhoController
+&lt;&lt;Classe&gt;&gt;
+--
+Metodos:
+
++ getAllQuadrinhos()
++ getQuadrinhobyId()
++ createQuadrinho()
++ updateQuadrinho()
++ deleteQuadrinho()
++ deleteAllQuadrinhos()
++ findByEditora()</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>310</x><y>0</y><w>210</w><h>280</h></coordinates><panel_attributes>Quadrinho
+&lt;&lt;Classe&gt;&gt;
+--
+Atributos:
+
+- id: long;
+- titulo: string;
+- descricao: string;
+- editora: string
+--
++ Quadrinho():ctr;
++ getId(): long;
++ getTitulo(): string;
++ getDescricao(): string;
++ getEditora(): string;
++ setTitulo(): void;
++ setDescricao(): void;
++ setEditora(): void;
++ toString(): string;</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>430</x><y>410</y><w>210</w><h>60</h></coordinates><panel_attributes>EstudantesApplication
+&lt;&lt;Classe&gt;&gt;
+--
++ main: void</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>490</x><y>280</y><w>60</w><h>150</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>10;10;40;130</additional_attributes></element><element><id>Relation</id><coordinates><x>240</x><y>280</y><w>120</w><h>140</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>100;10;10;120</additional_attributes></element></diagram>
